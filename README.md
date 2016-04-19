@@ -29,7 +29,7 @@ app.use('/wechat', wechat('token', function (req, res, next) {
   // message is located in req.weixin
   var message = req.weixin;
   console.log(message);
-});
+}));
 
 app.listen(3000);
 ```
