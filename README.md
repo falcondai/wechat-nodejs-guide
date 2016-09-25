@@ -1,6 +1,6 @@
 # guide to integrating with wechat (weixin) platform
 
-[Wechat](http://www.wechat.com/en/) is one of the largest messaging app by user count but its API and [docs](https://mp.weixin.qq.com/) are not very developer-friendly. It is especially hard for non-Chinese speaking developers. This guide is my attempt to save others some pain and effort. Some solutions are opinionated and you are welcome to submit your suggestions via [issues](https://github.com/falcondai/wechat-nodejs-guide/issues).
+[Wechat](http://www.wechat.com/en/) is one of the largest messaging app by user count but its API and [docs](http://admin.wechat.com/wiki/index.php?title=Main_Page) are not very developer-friendly. It is especially hard for non-Chinese speaking developers. This guide is my attempt to save others some pain and effort. Some solutions are opinionated and you are welcome to submit your suggestions via [issues](https://github.com/falcondai/wechat-nodejs-guide/issues).
 
 ## public accounts
 
